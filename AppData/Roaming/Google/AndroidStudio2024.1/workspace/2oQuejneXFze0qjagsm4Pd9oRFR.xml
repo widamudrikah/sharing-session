@@ -1,0 +1,172 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="DrawCanvas" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="4r8ksx096awn">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capstone/drawcanvas/MainActivity.kt">
+          <provider editor-type-id="android-source-code" selected="true">
+            <state>
+              <editor-state relative-caret-position="242">
+                <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+              </editor-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 1,
+      "lastUsed": 1730814228117
+    },
+    "Kotlin": {
+      "usageCount": 1,
+      "lastUsed": 1730814228481
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1730814228118" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="1" lastUsage="1730814228481" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java/com/capstone}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DrawCanvas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java/com/capstone}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://C:/Users/lenovo/AndroidStudioProjects/DrawCanvas/app/src/main/java/com/capstone/drawcanvas}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enableVisualFormatting" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20540366" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info anchor="bottom" id="App Quality Insights" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.32966396" />
+      <window_info anchor="right" id="Layout Validation" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.25" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <unified_weights bottom="0.32966396" left="0.20540366" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/capstone/drawcanvas/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="242">
+            <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          </editor-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
